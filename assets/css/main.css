@@ -2,6 +2,10 @@ body {
     font-family: Merriweather;
 }
 
+.archive-entry {
+    margin: auto;
+}
+
 .entry {
     width: 45em;
     margin: auto;
