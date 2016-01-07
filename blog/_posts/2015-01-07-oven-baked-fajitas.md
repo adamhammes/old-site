@@ -2,6 +2,12 @@
 layout: post
 title:  Oven Baked Fajitas
 ---
+
+I'm a big fan of fajitas, but not so much cooking them.
+My mom emailed me this recipe for baking fajitas, so I tried them out.
+
+<!--more-->
+
 ### Seasoning Ingredients
 
 * 1 tbsp chili powder
