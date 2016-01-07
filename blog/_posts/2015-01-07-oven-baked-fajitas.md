@@ -8,7 +8,7 @@ My mom emailed me this recipe for baking fajitas, so I tried them out.
 
 <!--more-->
 
-### Seasoning Ingredients
+## Seasoning Ingredients
 
 * 1 tbsp chili powder
 * ½ tbsp paprika
@@ -20,7 +20,7 @@ My mom emailed me this recipe for baking fajitas, so I tried them out.
 * ½ tsp salt
 * ½ tbsp corn starch
 
-### Fajita Ingredients
+## Fajita Ingredients
 
 * 2 small onions
 * 2 medium green bell peppers
@@ -29,7 +29,7 @@ My mom emailed me this recipe for baking fajitas, so I tried them out.
 * 2 tbsp vegetable oil
 * 1 medium lime
 
-### Instructions
+## Instructions
 
 Preheat the oven to 400 degrees. Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
 
