@@ -11,16 +11,11 @@ h2 {
     color: #727272;
 }
 
-.archive {
-    width: 45em;
-    margin: auto;
-}
-
 .archive-entry h1 {
     text-align: center;
 }
 
-.entry {
+.archive, .entry {
     width: 45em;
     margin: auto;
     background-color: #fff;
