@@ -22,6 +22,15 @@ h2 {
     padding: 20px;
 }
 
+.archive-link {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+.archive-link:hover {
+    text-decoration: underline;
+}
+
 .entry h1 {
     text-align: center;
 }
