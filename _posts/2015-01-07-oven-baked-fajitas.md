@@ -1,5 +1,6 @@
 # Oven Fajita Recipe
 **SEASONING**
+
 * 1 Tbsp chili powder
 * ½ Tbsp paprika
 * ½ tsp onion powder
