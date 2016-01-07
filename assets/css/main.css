@@ -2,6 +2,10 @@ body {
     font-family: Merriweather;
 }
 
+.archive {
+    width: 45em;
+}
+
 .archive-entry h1 {
     text-align: center;
 }
