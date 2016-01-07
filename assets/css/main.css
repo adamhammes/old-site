@@ -2,3 +2,7 @@
     width: 45em;
     margin: auto;
 }
+
+.entry #h1 {
+    margin: auto;
+}
