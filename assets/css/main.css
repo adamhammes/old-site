@@ -23,11 +23,11 @@ h2 {
     box-shadow: 0 0 5px rgba(0,0,0,.155);
 }
 
-.archive-link {
+a {
     color: #0000ff;
     text-decoration: none;
 }
 
-.archive-link:hover {
+a:hover {
     text-decoration: underline;
 }
