@@ -2,7 +2,7 @@
 layout: post
 title:  Oven Baked Fajitas
 ---
-**Seasoning Ingredients**
+### Seasoning Ingredients
 
 * 1 tbsp chili powder
 * ½ tbsp paprika
@@ -14,7 +14,7 @@ title:  Oven Baked Fajitas
 * ½ tsp salt
 * ½ tbsp corn starch
 
-**Fajita Ingredients**
+### Fajita Ingredients
 
 * 2 small onions
 * 2 medium green bell peppers
@@ -23,7 +23,7 @@ title:  Oven Baked Fajitas
 * 2 tbsp vegetable oil
 * 1 medium lime
 
-**Instructions**
+### Instructions
 
 Preheat the oven to 400 degrees. Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
 
