@@ -4,15 +4,12 @@ body {
 }
 
 h1 {
+    text-align: left;
     color: #0000ff;
 }
 
 h2 {
     color: #727272;
-}
-
-.archive-entry h1 {
-    text-align: center;
 }
 
 .archive, .entry {
