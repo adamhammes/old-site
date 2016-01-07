@@ -1,23 +1,24 @@
 # Oven Fajita Recipe
+
 **SEASONING**
 
-* 1 Tbsp chili powder
-* ½ Tbsp paprika
+* 1 tbsp chili powder
+* ½ tbsp paprika
 * ½ tsp onion powder
 * ¼ tsp garlic powder
 * ¼ tsp cumin
 * ⅛ tsp cayenne pepper
 * 1 tsp sugar
 * ½ tsp salt
-* ½ Tbsp corn starch
+* ½ tbsp corn starch
 
 **FAJITAS**
 
-* 2 small (or 1 lg.) onion
+* 2 small onions
 * 2 medium green bell peppers
 * 1 medium red bell pepper
-* 1 lb. chicken breast
-* 2 Tbsp vegetable oil
+* 1 lb chicken breast
+* 2 tbsp vegetable oil
 * 1 medium lime
 
 **INSTRUCTIONS**
