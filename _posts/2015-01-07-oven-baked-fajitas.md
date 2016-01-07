@@ -31,4 +31,4 @@ Sprinkle the seasoning over the meat and vegetables. Drizzle the vegetable oil o
 
 Scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
 
-Link to nutrition: [](http://www.myfitnesspal.com/recipe/view/269964089855293)
+[Link to nutrition.](http://www.myfitnesspal.com/recipe/view/269964089855293)
