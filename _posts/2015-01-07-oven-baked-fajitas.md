@@ -21,7 +21,7 @@
 * 2 tbsp vegetable oil
 * 1 medium lime
 
-**Ingredients**
+**Instructions**
 
 Preheat the oven to 400 degrees. Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
 
