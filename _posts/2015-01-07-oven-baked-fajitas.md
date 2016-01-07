@@ -1,6 +1,6 @@
 # Oven Fajita Recipe
 
-**SEASONING**
+**Seasoning Ingredients**
 
 * 1 tbsp chili powder
 * ½ tbsp paprika
@@ -12,7 +12,7 @@
 * ½ tsp salt
 * ½ tbsp corn starch
 
-**FAJITAS**
+**Fajita Ingredients**
 
 * 2 small onions
 * 2 medium green bell peppers
@@ -21,7 +21,7 @@
 * 2 tbsp vegetable oil
 * 1 medium lime
 
-**INSTRUCTIONS**
+**Ingredients**
 
 Preheat the oven to 400 degrees. Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
 
