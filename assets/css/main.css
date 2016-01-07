@@ -4,6 +4,7 @@ body {
 
 .archive {
     width: 45em;
+    margin: auto;
 }
 
 .archive-entry h1 {
