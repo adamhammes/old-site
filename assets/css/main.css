@@ -3,6 +3,10 @@ body {
     background-color: #f9f9f9;
 }
 
+h1 {
+    color: #0047ab;
+}
+
 .archive {
     width: 45em;
     margin: auto;
