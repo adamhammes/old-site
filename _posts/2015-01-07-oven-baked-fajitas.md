@@ -1,3 +1,7 @@
+---
+layout: post
+title:  Oven Baked Fajitas
+---
 # Oven Fajita Recipe
 
 **Seasoning Ingredients**
