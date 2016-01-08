@@ -9,6 +9,11 @@ h1 {
     color: #0000ff;
 }
 
+.date {
+    color: #b6b6b6;
+    font-family: Source Code Pro;
+}
+
 .archive, .entry {
     width: 45em;
     margin-top: 24px;
