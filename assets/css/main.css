@@ -9,6 +9,17 @@ h1 {
     color: #0000ff;
 }
 
+.continue-reading {
+    background: #0000ff;
+    color: #fff;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: .75em;
+    margin 1.53em 0 .75em;
+    display: inline-block;
+    border-bottom: 5px solid rgba(0,0,0,.2);
+}
+
 .date {
     color: #b6b6b6;
     font-family: Source Code Pro;
