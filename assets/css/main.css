@@ -17,7 +17,6 @@ h1 {
     padding: .75em;
     margin 1.53em 0 .75em;
     display: inline-block;
-    border-bottom: 5px solid rgba(0,0,0,.2);
 }
 
 .date {
