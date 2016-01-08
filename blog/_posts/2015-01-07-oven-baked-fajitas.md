@@ -3,7 +3,7 @@ layout: post
 title:  Oven Baked Fajitas
 ---
 
-![](http://i.imgur.com/8KPkqq8l.jpg)
+![](http://i.imgur.com/8KPkqq8h.jpg)
 
 I'm a big fan of fajitas, but not so much cooking them.
 My mom emailed me this recipe for baking fajitas, so I tried them out.
