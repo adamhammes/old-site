@@ -14,7 +14,7 @@ h2 {
 
 .archive, .entry {
     width: 45em;
-    margin: auto;
+    margin: 24px;
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0,0,0,.155);
