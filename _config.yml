@@ -3,4 +3,5 @@ description: Adam Hammes' Website
 author: Adam Hammes
 url: http://hammes.io
 permalink: blog/:title/
+excerpt_separator: <!--more-->
 exclude: [README.md]
