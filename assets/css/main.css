@@ -9,11 +9,6 @@ h1 {
     color: #0000ff;
 }
 
-h2 {
-    color: #727272;
-    font-weight: 700;
-}
-
 .archive, .entry {
     width: 45em;
     margin-top: 24px;
