@@ -5,7 +5,7 @@ layout: default
     {% for post in site.posts %}
         <div class="archive-entry">
             <h1><a class="archive-link" href="{{ post.url }}">{{ post.title }}</a></h1>
-            {% include date.html %}
+            <span class="date"><i class="fa fa-clock-o"></i> {{ post.date | date: '%B %d, %Y' }}</span>
             {{ post.excerpt }}
         </div>
     {% endfor %}
