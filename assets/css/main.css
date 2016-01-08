@@ -6,11 +6,11 @@ body {
 h1 {
     margin: 0 0 .50em;
     text-align: left;
-    color: #0000ff;
+    color: #489869;
 }
 
 .continue-reading {
-    background: #0000ff;
+    background: #489869;
     color: #fff;
     border-radius: 2px;
     text-transform: uppercase;
@@ -35,7 +35,7 @@ h1 {
 }
 
 a {
-    color: #0000ff;
+    color: #489869;
     text-decoration: none;
 }
 
