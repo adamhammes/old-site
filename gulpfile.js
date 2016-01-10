@@ -3,10 +3,10 @@ var browserSync = require('browser-sync');
 var cp          = require('child_process');
 
 var messages = {
-    jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
+    jekyllBuild: 'Running jekyll build'
 };
 
-gulp.task('jekyll-build', function(done) {
+gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
     return cp.spawn('jekyll', ['build'], {stdio: 'inherit'}).on('close', done);
 });
@@ -15,16 +15,17 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
     browserSync.reload();
 });
 
-gulp.task('browser-sync', ['jekyll-build'], function() {
+gulp.task('browser-sync', ['jekyll-build'], function () {
     browserSync({
         server: {
-            baseDir: 'build'
+            baseDir: '_site'
         }
     });
 });
 
 gulp.task('watch', function () {
-    gulp.watch(['*.html', '_layouts/*.html', 'blog/_posts/*', 'assets/css/*'],
+    gulp.watch(['*.html', '_layouts/*', 'blog/*', 'blog/_posts/*',
+                '_includes/*', 'assets/css/*'],
                ['jekyll-rebuild']);
 });
 
