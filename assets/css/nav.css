@@ -1,6 +1,8 @@
 .navContainer {
-    margin-top: 20px;
+    background: #489869;
     display: block;
+    height: 50px;
+    line-height: 50px;
 }
 
 .nav {
@@ -16,4 +18,5 @@
 .nav li a {
     padding: 14px 16px;
     text-align: center;
+    color: #fff;
 }
