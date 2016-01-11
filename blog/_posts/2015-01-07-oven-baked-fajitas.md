@@ -33,10 +33,17 @@ My mom emailed me this recipe for baking fajitas, so I tried them out.
 
 ## Instructions
 
-Preheat the oven to 400 degrees. Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
+Preheat the oven to 400 degrees.
+Mix all of the ingredients for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, salt, and corn starch).
 
-Cut the onion and bell peppers into ¼ to ½ inch wide strips. Place them in a large 9×13 inch casserole dish. Slice the chicken breast into very thin strips and add it to the casserole dish with the vegetables.
+Cut the onion and bell peppers into ¼ to ½ inch wide strips.
+Place them in a large 9×13 inch casserole dish.
+Slice the chicken breast into very thin strips and add it to the casserole dish with the vegetables.
 
-Sprinkle the seasoning over the meat and vegetables. Drizzle the vegetable oil over everything and then use your hands to toss the ingredients until everything is well coated in oil and seasoning. Bake in the preheated oven for 35-40 minutes, stirring once half way through. Squeeze the juice from half of the lime over top of the meat and vegetables after it comes out of the oven.
+Sprinkle the seasoning over the meat and vegetables.
+Drizzle the vegetable oil over everything and then use your hands to toss the ingredients until everything is well coated in oil and seasoning.
+Bake in the preheated oven for 35-40 minutes, stirring once half way through.
+Squeeze the juice from half of the lime over top of the meat and vegetables after it comes out of the oven.
 
-Scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
+Scoop a small amount of meat and vegetables into the center of each tortilla.
+Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
