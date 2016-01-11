@@ -11,11 +11,11 @@ header ul {
     margin: 0 auto;
 }
 
-header ul li {
+header li {
     display: inline-block;
 }
 
-header ul li a {
+header li a {
     padding: 14px;
     color: #fff;
 }
