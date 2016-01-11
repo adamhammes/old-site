@@ -1,22 +1,21 @@
-.navContainer {
+header {
     background: #489869;
     height: 50px;
     line-height: 50px;
-    
 }
 
-.nav {
+header ul {
     text-align: center;
     padding: 0;
     list-style: none;
     margin: 0 auto;
 }
 
-.nav li {
+header ul li {
     display: inline-block;
 }
 
-.nav li a {
+header ul li a {
     padding: 14px;
     color: #fff;
 }
