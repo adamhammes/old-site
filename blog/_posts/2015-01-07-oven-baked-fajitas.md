@@ -5,8 +5,8 @@ title:  Oven Baked Fajitas
 
 ![](http://i.imgur.com/5tJHCog.jpg)
 
-I'm a big fan of fajitas, but not so much cooking them.
-My mom emailed me this recipe for baking fajitas, so I tried them out.
+I'm a big fan of fajitas, but have never enjoyed the hassle of cooking them.
+Naturally I was excited to find this recipe for baked fajitas.
 
 <!--more-->
 
