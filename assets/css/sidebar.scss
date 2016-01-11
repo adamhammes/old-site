@@ -6,10 +6,22 @@
     top: 0;
     left: 0;
     background: $mainColor; 
+    color: #fff;
+    height: 100%;
+
+    #bars {
+        display: none;
+    }
 }
 
 nav {
+    ul {
+        overflow: auto;
+    }
     li {
         list-style: none;
+        &:hover {
+            background: $darkMain;
+        }
     }
 }
