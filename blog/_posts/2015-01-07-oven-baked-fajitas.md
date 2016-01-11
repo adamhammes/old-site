@@ -40,5 +40,3 @@ Cut the onion and bell peppers into ¼ to ½ inch wide strips. Place them in a l
 Sprinkle the seasoning over the meat and vegetables. Drizzle the vegetable oil over everything and then use your hands to toss the ingredients until everything is well coated in oil and seasoning. Bake in the preheated oven for 35-40 minutes, stirring once half way through. Squeeze the juice from half of the lime over top of the meat and vegetables after it comes out of the oven.
 
 Scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
-
-[Link to nutrition.](http://www.myfitnesspal.com/recipe/view/269964089855293)
