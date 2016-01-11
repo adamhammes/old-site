@@ -1,11 +1,19 @@
-.nav ul {
-    list-style-type: none;
+.navContainer {
+    margin-top: 20px;
+    display: block;
 }
 
-.nav ul li {
+.nav {
+    display: table;
+    list-style-type: none;
+    margin: 0 auto;
+}
+
+.nav li {
     float: left;
 }
 
-.nav ul li a {
+.nav li a {
     padding: 14px 16px;
+    text-align: center;
 }
