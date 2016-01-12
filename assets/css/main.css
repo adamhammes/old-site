@@ -27,7 +27,7 @@ h1 {
     font-family: Source Code Pro;
 }
 
-.archive, .entry {
+.content {
     max-width: 45em;
     margin-top: 24px;
     margin-left: auto;
