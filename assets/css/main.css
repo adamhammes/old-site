@@ -53,3 +53,21 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.welcome {
+    text-align: center;
+    margin: 30px;
+}
+
+#personal-description {
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#homepic {
+    max-width: 35%;
+    display: inline-block;
+    float: left;
+    margin: 0 20px;
+}
