@@ -20,6 +20,7 @@ Here are the 2016-2017 rates[^1]:
 | Maple Traditional Rooms | $5067  | $5299  |
 
 Since I'm not sharing a room with anyone, and only sharing three bathrooms with five others, the single-person suites are a closer match to my living conditions than the traditional rooms.
-In terms of actual quality, the Buchanan Suites line up the best with my house.
+In terms of actual quality, the Buchanan Suites line up the best with my house (the Eaton/Martin suites are VERY luxurious), so we end up with a final price tag of $6592.
+We'll ignore the required meal plan in order to keep the comparison as simple as possible.
 
 [^1]: I did not list the MU options as they are incredibly expensive.
