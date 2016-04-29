@@ -15,5 +15,6 @@ Here are the 2016-2017 rates:
 | Building                | Single | Double |
 | ----------------------- | ------ | ------ |
 | Buchanan Suites         | $6592  | $5732  |
+| Eaton/Martin Suites     | $6960  | $6052  |
 | Traditional Rooms       | $5758  | $4429  |
 | Maple Traditional Rooms | $5067  | $5299  |
