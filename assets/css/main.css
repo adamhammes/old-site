@@ -71,3 +71,19 @@ img {
     float: left;
     margin: 0 20px;
 }
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid #000000;
+}
+
+th {
+	border: 1px solid #000000;
+	padding: 4px;
+}
+
+td {
+	border:1px solid #000000;
+	padding: 4px;
+}
