@@ -12,6 +12,8 @@ I'll start with on-campus costs, as they are easier to determine.
 Iowa State University [conveniently lists](http://housing.iastate.edu/rates) the cost of all their housing options.
 Here are the 2016-2017 rates:
 
-| Building      | Air-Conditioning?  | Single  | Double |
-| ------------- | ------------- | ------ | ------ |
-| Buchanan Suites | Yes | $6592 | $5732 |
+| Building                | Single | Double |
+| ----------------------- | ------ | ------ |
+| Buchanan Suites         | $6592  | $5732  |
+| Traditional Rooms       | $5758  | $4429  |
+| Maple Traditional Rooms | $5067  | $5299  |
