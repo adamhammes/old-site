@@ -1,1 +1,11 @@
-My personal website - check it out at http://hammes.io
+# hammes.io
+
+### Developing:
+
+```
+$ git clone https://github.com/adamhammes/adamhammes.github.io
+$ cd adamhammes.github.io
+$ npm install gulp browser-sync
+$ gem install jekyll
+$ gulp
+```
