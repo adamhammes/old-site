@@ -2,14 +2,14 @@
 layout: default
 ---
 <div class="content">
-	<h1> Interest Calculator </h1>
+	<h1> Savings Calculator </h1>
 
 	<div class="row">
 		<div class="col-xs-6">
 			Initial amount
 		</div>
 		<div class="col-xs-6">
-			<input type="text"/>
+			<input type="text" value="0"/>
 		</div>
 	</div>
 	<div class="row">
@@ -17,7 +17,15 @@ layout: default
 			Years
 		</div>
 		<div class="col-xs-6">
-			<input type="text"/>
+			<input type="text" value="0"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-6">
+			Monthly Deposit
+		</div>
+		<div class="col-xs-6">
+			<input type="text" value="0"/>
 		</div>
 	</div>
 	<div class="row">
@@ -25,15 +33,22 @@ layout: default
 			Annual interest rate %
 		</div>
 		<div class="col-xs-6">
-			<input type="text"/>
+			<input type="text" value="0"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-6">
+			Compound frequency
+		</div>
+		<div class="col-xs-6">
+			<input type="text" value="12"/>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-6">
 			Result
 		</div>
-		<div class="col-xs-6">
-			<span id="result">0</div>
+		<div class="col-xs-6" id="result">
 		</div>
 	</div>
 </div>
