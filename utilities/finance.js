@@ -10,10 +10,11 @@ function interestHandler(event) {
 	var p = parseFloat(inputs[0].value) || 0;
 	var t = parseFloat(inputs[1].value) || 0;
 	var d = parseFloat(inputs[2].value) || 0;
-	var r = (parseFloat(inputs[3].value) || 0) / 100;
-	var n = parseFloat(inputs[4].value) || 0;
+	var dn = parseFloat(inputs[3].value) || 0;
+	var r = (parseFloat(inputs[4].value) || 0) / 100;
+	var rn = parseFloat(inputs[5].value) || 0;
 
-	var total = interest(p, t, d, r, n);
+	var total = interest(p, t, d, dn, r, rn);
 	if (total < 0 || total > 10000000000) {
 		total = 0;
 	}
@@ -23,17 +24,37 @@ function interestHandler(event) {
 
 interestHandler();
 
-function interest(p, t, d, r, n) {
-	var initial = p * Math.pow(1 + r/n, n * t);
-	var accum = d * (Math.pow(1 + r/n, n * t) - 1);
+function interest(p, t, d, dn, r, rn) {
+	var interestPercentage = r / rn;
+	// assuming possible values for dn and rn are 12, 4, 1
+	dn = 12 / dn;
+	rn = 12 / rn;
+
+
+	console.log(p);
+	console.log(t);
+	console.log(d);
+	console.log(dn);
+	console.log(r);
+	console.log(rn);
+	console.log('######');
 	
-	if (r != 0) {
-		accum = accum / r * n;
-	} else {
-		accum = d * n * t;
+	var numPeriods = t * 12;
+	var currentMoney = p;
+
+	for (var i = 1; i <= numPeriods; i++) {
+		if (i % rn == 0) {
+			currentMoney += currentMoney * interestPercentage;
+		}
+
+		if (i % dn == 0) {
+			currentMoney += d;
+		}
+
+		console.log("current money is " + currentMoney);
 	}
 
-	return initial + accum;
+	return currentMoney;
 }
 
 function prettyPrint(num) {
