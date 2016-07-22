@@ -5,7 +5,7 @@
 ```
 $ git clone https://github.com/adamhammes/adamhammes.github.io
 $ cd adamhammes.github.io
-$ npm install gulp browser-sync
+$ npm install
 $ gem install jekyll
 $ gulp
 ```
