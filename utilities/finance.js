@@ -1,20 +1,29 @@
-var inputs = document.getElementsByTagName("input");
+var principalElem = document.getElementById("principal");
+var yearsElem = document.getElementById("years");
+var depositAmountElem = document.getElementById("depositAmount");
+var depositRateElem = document.getElementById("depositRate");
+var interestRateElem = document.getElementById("interestRate");
+var compoundFrequencyElem = document.getElementById("compoundFrequency");
+
 var resultElement = document.getElementById("result");
+
+var inputs = [principalElem, yearsElem, depositAmountElem, depositRateElem, interestRateElem,
+    compoundFrequencyElem];
 
 for (var i = 0; i < inputs.length; i++) {
 	inputs[i].addEventListener("change", interestHandler);
 }
 
 
-function interestHandler(event) {
-	var p = parseFloat(inputs[0].value) || 0;
-	var t = parseFloat(inputs[1].value) || 0;
-	var d = parseFloat(inputs[2].value) || 0;
-	var dn = parseFloat(inputs[3].value) || 0;
-	var r = (parseFloat(inputs[4].value) || 0) / 100;
-	var rn = parseFloat(inputs[5].value) || 0;
+function interestHandler() {
+	var principal = parseFloat(principalElem.value) || 0;
+	var years = parseFloat(yearsElem.value) || 0;
+	var deposit = parseFloat(depositAmountElem.value) || 0;
+	var dn = parseFloat(depositRateElem.value) || 0;
+	var interestRate = (parseFloat(interestRateElem.value) || 0) / 100;
+	var rn = parseFloat(compoundFrequencyElem.value) || 0;
 
-	var total = interest(p, t, d, dn, r, rn);
+	var total = calculateSavings(principal, years, deposit, dn, interestRate, rn);
 	if (total < 0 || total > 10000000000) {
 		total = 0;
 	}
@@ -24,22 +33,23 @@ function interestHandler(event) {
 
 interestHandler();
 
-function interest(p, t, d, dn, r, rn) {
-	var interestPercentage = r / rn;
-	// assuming possible values for dn and rn are 12, 4, 1
+function calculateSavings(principal, years, deposit, dn, rate, rn) {
+	var interestPerPeriod = rate / rn;
+
+	// find the period of the deposit rate and calculateSavings rate
 	dn = 12 / dn;
 	rn = 12 / rn;
 	
-	var numPeriods = t * 12;
-	var currentMoney = p;
+	var numPeriods = years * 12;
+	var currentMoney = principal;
 
 	for (var i = 1; i <= numPeriods; i++) {
 		if (i % rn == 0) {
-			currentMoney += currentMoney * interestPercentage;
+			currentMoney += currentMoney * interestPerPeriod;
 		}
 
 		if (i % dn == 0) {
-			currentMoney += d;
+			currentMoney += deposit;
 		}
 	}
 
