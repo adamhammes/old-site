@@ -4,9 +4,6 @@ author: Adam Hammes
 url: http://hammes.io
 permalink: blog/:title/
 excerpt_separator: <!--more-->
-exclude: ["README.md", "gulpfile.js", "package.json", "node_modules"]
+source: site/
 
 markdown: kramdown
-
-sass:
-        sass_dir: assets/css
