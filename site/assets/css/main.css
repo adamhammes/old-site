@@ -55,6 +55,10 @@ img {
     margin-right: auto;
 }
 
+blockquote {
+    font-size: 20px;
+}
+
 .welcome {
     text-align: center;
     margin: 30px;
