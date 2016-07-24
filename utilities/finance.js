@@ -29,15 +29,6 @@ function interest(p, t, d, dn, r, rn) {
 	// assuming possible values for dn and rn are 12, 4, 1
 	dn = 12 / dn;
 	rn = 12 / rn;
-
-
-	console.log(p);
-	console.log(t);
-	console.log(d);
-	console.log(dn);
-	console.log(r);
-	console.log(rn);
-	console.log('######');
 	
 	var numPeriods = t * 12;
 	var currentMoney = p;
@@ -50,8 +41,6 @@ function interest(p, t, d, dn, r, rn) {
 		if (i % dn == 0) {
 			currentMoney += d;
 		}
-
-		console.log("current money is " + currentMoney);
 	}
 
 	return currentMoney;
