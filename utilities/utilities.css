@@ -1,3 +1,7 @@
 .right-align {
     text-align: right;
 }
+
+.grid-container div.row {
+    margin-top: 1%;
+}
