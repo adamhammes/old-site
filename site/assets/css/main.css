@@ -78,12 +78,7 @@ table {
 	border-spacing: 0;
 }
 
-th {
+th, td {
 	border: 1px solid #000000;
-	padding: 4px 6px 4px 6px;
-}
-
-td {
-	border:1px solid #000000;
 	padding: 4px 6px 4px 6px;
 }
