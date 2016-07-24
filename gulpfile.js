@@ -24,8 +24,7 @@ gulp.task('browser-sync', ['jekyll-build'], function () {
 });
 
 gulp.task('watch', function () {
-    gulp.watch(['*.html', '_layouts/*', 'blog/*', 'blog/_posts/*',
-                '_includes/*', 'assets/css/*', 'assets/images/*', 'utilities/*'],
+    gulp.watch(['./**/*.html', './**/*.css', './**/*.js', './**/*.md', '!_site/**/*'],
                ['jekyll-rebuild']);
 });
 
