@@ -65,7 +65,9 @@ It's up to you to decide if the above two factors are worth $1000.
 
 On a final note, I will say that this comparison is incredibly unfair to off-campus living.
 Removing the two simplifying assumptions I made at the start of this post would save around $2400 [^3].
-Finally, the real reason I'm moving into a house isn't for financial reasons - it's so I can live my best college friends.
+Finally, the real reason I'm moving into a house isn't for financial reasons - it's so I can live with my best college friends.
+
+---
 
 [^1]: I did not list the MU options as they are incredibly expensive.
 
