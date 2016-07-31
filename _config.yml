@@ -5,5 +5,8 @@ url: http://hammes.io
 permalink: blog/:title/
 excerpt_separator: <!--more-->
 source: site/
+sass:
+  sass_dir: assets/_scss
+  style: compressed
 
 markdown: kramdown
