@@ -5,7 +5,7 @@ title: No-Bake Cookies
 
 <!--more-->
 
-Ingredients
+## Ingredients
 
 * 2 cups sugar
 * 1/2 cup milk
@@ -17,7 +17,7 @@ Ingredients
 * Large pinch kosher salt
 
 
-Directions
+## Directions
 
 Line a baking sheet with wax paper or parchment.
 
