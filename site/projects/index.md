@@ -7,7 +7,7 @@ layout: content
 > An implementation of various graph algorithms, including Djikstra's shortest path, topological
 sort, and minimum spanning tree. Written for Com Sci 311.
 
-## [adamhammes.github.io](https://github.com/adamhammes/adamhammes.github.io)
+## [hammes.io](https://github.com/adamhammes/hammes.io)
 
 > The source code for this website. Uses Jekyll for templating and gulp.js for live reloading.
 
