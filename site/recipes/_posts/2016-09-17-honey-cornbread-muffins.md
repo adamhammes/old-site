@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Honey Cornbreak Muffins
+title: Honey Cornbread Muffins
 ---
 
 <!--more-->
