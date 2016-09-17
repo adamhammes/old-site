@@ -36,3 +36,5 @@ Bake for 15 minutes, until golden.
 ## Notes:
 
 Spraying the muffin wrappers with cooking spray will make it easier to extract the muffins after baking.
+
+To melt the butter, microwave in a microwave-safe bowl for fifteen-second intervals until completely liquid, whisking inbetween intervals.
