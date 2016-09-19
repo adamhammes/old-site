@@ -5,7 +5,7 @@ title: No-Bake Cookies
 
 <!--more-->
 
-Ingredients
+## Ingredients
 
 * 2 cups sugar
 * 1/2 cup milk
@@ -17,9 +17,9 @@ Ingredients
 * Large pinch kosher salt
 
 
-Directions
+## Directions
 
-Line a baking sheet with wax paper or parchment.
+Line two baking sheets with wax paper or parchment.
 
 Bring the sugar, milk, butter and cocoa to a boil in a medium saucepan over medium heat, stirring occasionally, then let boil for 1 minute.
 Remove from the heat.

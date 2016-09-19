@@ -31,12 +31,11 @@ h1 {
 .content {
     overflow: auto;
     max-width: 45em;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 24px auto;
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0,0,0,.155);
+    border-radius: 5px;
 }
 
 a {
