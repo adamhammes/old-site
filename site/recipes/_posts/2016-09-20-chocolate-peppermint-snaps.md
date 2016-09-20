@@ -16,7 +16,7 @@ Recipe taken from [kingarthurflour.com](http://www.kingarthurflour.com/recipes/c
 * 1 teaspon vanilla extract
 * 1 teaspoon peppermint extract, or 1/8 teaspoon peppermint oil (or to taste)
 * 1 1/2 cups all-purpose flour
-* 1/4 cup baking cocoa
+* 1/4 cup cocoa powder
 * 1 teaspoon baking soda
 * 1/4 teaspoon salt
 * 1 cup semisweet chocolate chips
