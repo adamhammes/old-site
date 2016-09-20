@@ -15,7 +15,7 @@ Recipe taken from [kingarthurflour.com](http://www.kingarthurflour.com/recipes/l
 * 1 teaspoon vanilla extract
 * * 1/2 teaspoon salt
 * 1 large egg
-* 2 3/4 cups flour
+* 2 3/4 cups all-purpose flour
 * 1/2 cup raspberry jam
 
 ## Directions
@@ -28,8 +28,7 @@ Recipe taken from [kingarthurflour.com](http://www.kingarthurflour.com/recipes/l
 
 4. Add the flour, stirring until well blended.
 
-5. Use a teaspoon cookie scoop (about 2 measuring teaspoons) or tablespoon cookie scoop (about 4 measuring teaspoons) of dough for each cookie.
-Scoop cookies onto the baking sheets, leaving 2? between them.
+5. Use a teaspoon cookie scoop (about 2 measuring teaspoons) or tablespoon cookie scoop (about 4 measuring teaspoons) of dough for each cookie, scoop cookies onto the baking sheets
 
 6. Use your fingertip (for smaller cookies) or thumb (for larger cookies) to put an indentation into the center of each.
 
