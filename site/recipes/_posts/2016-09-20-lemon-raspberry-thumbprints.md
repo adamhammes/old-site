@@ -13,7 +13,7 @@ Recipe taken from [kingarthurflour.com](http://www.kingarthurflour.com/recipes/l
 * 1 cup granulated sugar
 * 1 tablespoon grated lemon rind or 1/4 teaspoon lemon oil
 * 1 teaspoon vanilla extract
-* * 1/2 teaspoon salt
+* 1/2 teaspoon salt
 * 1 large egg
 * 2 3/4 cups all-purpose flour
 * 1/2 cup raspberry jam
