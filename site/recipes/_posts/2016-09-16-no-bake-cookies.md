@@ -28,4 +28,7 @@ Add the oats, peanut butter, vanilla and salt, and stir to combine.
 Drop teaspoonfuls of the mixture onto the prepared baking sheet, and let sit at room temperature until cooled and hardened, about 30 minutes.
 Refrigerate in an airtight container for up to 3 days.
 
+## Notes
 
+Sifting the cocoa powder before adding will make it easier to make the sauce.
+It is possible to use quick oats in place of rolled oats, but in my experience the cookies don't retain their shape as well.
