@@ -22,7 +22,6 @@ title: Honey Cornbread Muffins
 
 ## Directions
 
-
 Preheat oven to 400 degrees F.
 
 Into a large bowl, mix the cornmeal, flour, baking powder, sugar, and salt.
@@ -33,8 +32,8 @@ Place muffin paper liners in a 12-cup muffin tin.
 Evenly divide the cornbread mixture into the papers.
 Bake for 15 minutes, until golden.
 
-## Notes:
+## Notes
 
 Spraying the muffin wrappers with cooking spray will make it easier to extract the muffins after baking.
 
-To melt the butter, microwave in a microwave-safe bowl for fifteen-second intervals until completely liquid, whisking inbetween intervals.
+To melt the butter, microwave in a microwave-safe bowl for fifteen-second intervals until completely liquid, whisking in between intervals.
