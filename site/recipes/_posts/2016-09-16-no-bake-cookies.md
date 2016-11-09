@@ -32,3 +32,6 @@ Refrigerate in an airtight container for up to 3 days.
 
 Sifting the cocoa powder before adding will make it easier to make the sauce.
 It is possible to use quick oats in place of rolled oats, but in my experience the cookies don't retain their shape as well.
+
+Have a timer already preset to one minute.
+The "wait while boiling" step is super important, and it's easy to become flustered and not time it precisely.
