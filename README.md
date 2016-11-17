@@ -17,4 +17,4 @@ If you are on Windows and get an error something like this:
 SSL Error When installing rubygems, Unable to pull data from 'https://rubygems.org/ 
 ```
 
-the steps [here](SSL Error When installing rubygems, Unable to pull data from 'https://rubygems.org/) worked for me.
+the steps [here](https://rubygems.org/) worked for me.
