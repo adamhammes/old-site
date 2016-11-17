@@ -1,8 +1,10 @@
+@import "colors";
+
 body {
     font-family: Georgia;
     font-size: 20px;
-    background-color: #f9f9f9;
-    color: #222;
+    background-color: $main-background;
+    color: $text-color;
     line-height: 1.4;
     margin: 0 !important;
     padding: 0 !important;
@@ -11,11 +13,11 @@ body {
 h1 {
     margin: 0 0 .50em;
     text-align: left;
-    color: #489869;
+    color: $primary-color;
 }
 
 .continue-reading {
-    background: #489869;
+    background: $primary-color;
     color: #fff;
     border-radius: 2px;
     text-transform: uppercase;
@@ -32,14 +34,14 @@ article {
     overflow: auto;
     max-width: 45em;
     margin: 24px auto;
-    background-color: #fff;
+    background-color: $content-background;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0,0,0,.155);
     border-radius: 5px;
 }
 
 a {
-    color: #9489869;
+    color: $primary-color;
     text-decoration: none;
 }
 
@@ -78,5 +80,5 @@ blockquote {
 }
 
 .blog-title{
-  color: #489869;
+  color: $primary-color;
 }
