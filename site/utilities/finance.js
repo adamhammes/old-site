@@ -14,6 +14,7 @@ for (var i = 0; i < inputs.length; i++) {
 	inputs[i].addEventListener("change", interestHandler);
 }
 
+globalResult = 0;
 
 function interestHandler() {
 	var principal = parseFloat(principalElem.value) || 0;
@@ -52,7 +53,7 @@ function calculateSavings(principal, years, deposit, dn, rate, rn) {
 			currentMoney += deposit;
 		}
 	}
-
+	globalResult = currentMoney;
 	return currentMoney;
 }
 
